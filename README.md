@@ -55,7 +55,7 @@ python generate_process.py (in different terminal)
 - Reel customization (transitions, image duration)
 - Authentication and user-specific galleries
 
-## 📸 Sample Demo
+## 📸 Screenshot pics
 ![index page](static\index.png)
 ![create page](static\create.png)
 ![create page](static\gallery.png)
