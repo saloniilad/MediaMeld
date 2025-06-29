@@ -16,6 +16,7 @@ A Flask-based web application that allows users to upload images and a descripti
 - Python 🐍
 - Flask 🌐
 - FFmpeg 🎥
+- AI API (ElevenLabs)
 - Text-to-Speech (via `text_to_speech_file`) 🗣️
 
 ## 🛠️ Setup Instructions
@@ -25,6 +26,7 @@ A Flask-based web application that allows users to upload images and a descripti
 - Python 3.x
 - FFmpeg installed and added to PATH
 - Install required Python packages (Flask, etc.)
+- Config your own elevenlabs api and add it in config.py.
 
 ### Installation
 
